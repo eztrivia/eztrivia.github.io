@@ -6,7 +6,7 @@ function passWord() {
     history.go(-1);
     if (pass1.toLowerCase() == "letsmakeadeallll") {
     alert('Correct, welcome back to the Methods page.');
-    window.open('cgvflewnhuwevfywefbwebwekjlfnweu9fhbuesdf.html');
+    window.open('youcansmdskdmafhij2efqwdfsdfiosdfhi.html');
     break;
     } 
     testV+=1;
