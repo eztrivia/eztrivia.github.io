@@ -10,11 +10,6 @@ daym="0"+daym
 var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
 var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
 document.write("<small><font color='000000' face='Arial'><b>"+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+" | REXIAWORLD</b></font></small>")
-<br>
-<br>
 
-<p>"rexiaworld" is a property of Off-White™ -- 2019</p>
-
-</br>
 
 
