@@ -4,7 +4,7 @@ function passWord() {
     while (testV < 3) {
     if (!pass1) 
     history.go(-1);
-    if (pass1.toLowerCase() == "letsmakeadeallll") {
+    if (pass1.toLowerCase() == "paulisafish") {
     alert('Correct, welcome back to the Methods page.');
     window.open('youcansmdskdmafhij2efqwdfsdfiosdfhi.html');
     break;
