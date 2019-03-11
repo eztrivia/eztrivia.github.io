@@ -1,1 +1,0 @@
-# atyoboi.github.io
